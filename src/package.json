@@ -1,0 +1,17 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/pickers/MaterialUIPickers.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "date-fns": "latest",
+    "@material-ui/pickers": "latest",
+    "@material-ui/core": "latest",
+    "@date-io/date-fns": "v1"
+  },
+  "keywords": [],
+  "name": "material-ui-pickers"
+}

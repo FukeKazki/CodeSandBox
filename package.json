@@ -1,0 +1,24 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/pickers/MaterialUIPickers.js",
+  "keywords": [],
+  "name": "material-ui-pickers",
+  "version": "0.0.11",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "date-fns": "latest",
+    "@material-ui/pickers": "latest",
+    "@material-ui/core": "latest",
+    "@date-io/date-fns": "v1"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
